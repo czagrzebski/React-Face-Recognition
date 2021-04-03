@@ -6,11 +6,9 @@ const Rank = (props) => {
     return (
         <div>
             <div className="white f3 center">
-                {props.name + ', your current rank is...'}
+                {props.name + `, you have used this application ${props.rank} times`}
             </div>
-            <div className="white f2 center">
-                {props.rank}
-            </div>
+          
         </div>
     );
 }
