@@ -3,7 +3,7 @@
 React-Face-Recognition is a progressive web application built using NodeJS and ReactJS. Find an image of a face and the application will identify the location of the face on the image.
 ## What is the use of this Repo
 
-I created this project in order to learn how to develop modern web applications using NodeJS, ReactJS, ExpressJS, and Postgresql. This project is also from [Andrei Neagoie's Complete Web Developer in 2021 Course.](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
+I created this project to learn how to develop modern web applications using NodeJS, ReactJS, ExpressJS, and Postgresql. This project is from [Andrei Neagoie's Complete Web Developer in 2021 Course.](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
 
  
